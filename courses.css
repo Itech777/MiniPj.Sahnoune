@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(23,0,0);
+}
+.nav{
+    background-color:rgb(23,0,0) ;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: blue;
+}
+h2{
+    color: white;
+}
+.mt-3{
+    color:white;
+}
